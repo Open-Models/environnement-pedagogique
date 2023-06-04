@@ -8,7 +8,7 @@ education, open hardware...) en lien avec la [brique de connaissances sur les mo
 Matériel et guide pour la structuration de zones pédagogiques par modèle ouvert, qui se composent à la fois
 d'affiches, d'un environnement matériel et d'interactions sociales.
 
-Ressources téléchargeables sur Zenodo : https://doi.org/10.5281/zenodo.8002670
+Ressources téléchargeables sur Zenodo : https://doi.org/10.5281/zenodo.8002670  
 Ressources co-produites sur la forge GitHub : https://github.com/Open-Models/environnement-pedagogique
 
 ## Usage
