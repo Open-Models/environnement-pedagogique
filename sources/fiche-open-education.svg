@@ -14,7 +14,7 @@
    version="1.1"
    id="svg1932"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="OPEN-MODELS_open-education.svg"
+   sodipodi:docname="fiche-open-education.svg"
    inkscape:export-filename="/home/abcsxyz/Documents/travail/ideavox/education-xxi/environnement-pédagogique/OPEN-MODELS_open-education.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.61580177"
      inkscape:cx="796.91311"
-     inkscape:cy="498.11153"
+     inkscape:cy="822.89137"
      inkscape:document-units="mm"
      inkscape:current-layer="g2661"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -165,11 +165,6 @@
              id="rect8895-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara8897-2">Contenu pédagogique librement utilisable, modifiable et partageable, qui rend possible tout un ensemble de pratiques collaboratives ouvertes et décentralisées, utilisable avec une variété d'approches pédagogiques.</flowPara></flowRoot>
-      <path
-         inkscape:connector-curvature="0"
-         id="path9531"
-         d="M 240.09319,-81.008668 H 513.2966"
-         style="fill:none;stroke:#000000;stroke-width:0.158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.21799528,0,0,0.21799528,1677.7024,-289.69477)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -366,6 +361,29 @@
          id="image1829-3"
          x="476.14981"
          y="85.178444" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.46918px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.23673"
+         x="361.02322"
+         y="-78.472694"
+         id="text7574"><tspan
+           sodipodi:role="line"
+           id="tspan7572"
+           x="361.02322"
+           y="-78.472694"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">NOTIONS</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7576"
+         d="m 240.09309,-80.621478 h 114.7464"
+         style="fill:none;stroke:#000000;stroke-width:0.158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7578"
+         d="M 400.84329,-80.621478 H 514.5313"
+         style="fill:none;stroke:#000000;stroke-width:0.158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
