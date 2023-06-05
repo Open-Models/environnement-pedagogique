@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.71"
      inkscape:cx="564.65868"
-     inkscape:cy="379.76259"
+     inkscape:cy="1168.495"
      inkscape:document-units="mm"
      inkscape:current-layer="g2661"
      showgrid="false"
@@ -185,7 +185,11 @@
              width="491.97525"
              id="rect8895-1-8-9-1-6" /></flowRegion><flowPara
            id="flowPara9178-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Un commun numérique est une ressource utilisée et produite par une communauté avec une relative gouvernance partagée. Il peut s'agir d'un logiciel, de contenu pédagogique ou scientifique, de plan matériel, de données, etc. avec un écosystème composé de citoyens, d'organisations privées et/ou d'institutions publiques. Dans le cas du noyau Linux, entre 2007 et 2019, 1730 organisations ont contribué au logiciel.</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Un commun numérique est une ressource utilisée et produite par une communauté avec une relative gouvernance partagée. Il peut s'agir d'un logiciel, de contenu pédagogique ou scientifique, de plan matériel, de données, etc. avec un écosystème composé de citoyens, d'organisations privées et/ou d'institutions publiques.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara1011"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara1013">Dans le cas du noyau Linux, entre 2007 et 2019, 1730 organisations ont contribué au logiciel.</flowPara></flowRoot>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13839px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.17846"
@@ -228,7 +232,7 @@
              width="493.84445"
              id="rect8895-1-8-9-1-0-2-2" /></flowRegion><flowPara
            id="flowPara9324-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Python, Javascript, PHP, C, C++... En informatique, ces différents &quot;langages&quot; permettent d'écrire le code des logiciels. Pour chaque langage il existe un logiciel pour convertir ce texte, qui peut être compréhensible par les humains, en instruction pour l'ordinateur, qui ne comprend que les 0 et les 1. Les logiciels pour faire fonctionner ces langages sont très majoritairement en open source, ce qui permet facilement à tout le monde de faire de la programmation.</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Python, JavaScript, PHP, C, C++... En informatique, ces différents &quot;langages&quot; permettent d'écrire le code des logiciels. Pour chaque langage il existe un logiciel pour convertir ce texte, qui peut être compréhensible par les humains, en instruction pour l'ordinateur, qui ne comprend que les 0 et les 1. Les logiciels pour faire fonctionner ces langages sont très majoritairement en open source ce qui permet facilement à tout le monde de pouvoir faire de la programmation.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21799528,0,0,0.21799528,1812.138,-185.60249)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -319,7 +323,7 @@
              width="501.19553"
              id="rect8895-1-8-9-1-0-3-1" /></flowRegion><flowPara
            id="flowPara9235-3-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Une forge est un environnement qui offre un ensemble de fonctionnalités pour le développement collaboratif d'une ressource. On peut trouver sur un même espace un outil de gestion de version et d'historique, un système de suivi des bugs, des espaces de discussion type forum, un wiki, etc. ll existe surtout des forges logicielles, mais le principe s'applique à d'autres formes de contenu.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Une forge est un environnement qui offre un ensemble de fonctionnalités pour le développement collaboratif d'une ressource. On peut trouver sur un même espace un outil de gestion de version et d'historique, un système de suivi des bugs, des espaces de discussion type forum, un wiki, etc. Il existe surtout des forges logicielles, mais le principe s'applique à d'autres formes de contenu.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara898" /><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
