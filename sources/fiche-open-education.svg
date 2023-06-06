@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94316065"
-     inkscape:cx="277.03941"
-     inkscape:cy="836.12724"
+     inkscape:zoom="0.5"
+     inkscape:cx="532.32722"
+     inkscape:cy="850.5908"
      inkscape:document-units="mm"
      inkscape:current-layer="g2661"
      showgrid="false"
@@ -74,17 +74,17 @@
       <text
          id="text8889-7"
          y="-230.26086"
-         x="264.40366"
+         x="263.1597"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7462px;line-height:0.9;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';letter-spacing:0px;word-spacing:0px;stroke-width:0.643654"
          xml:space="preserve"><tspan
            id="tspan1695"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0.9;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.643654"
            y="-230.26086"
-           x="264.40366"
+           x="263.1597"
            sodipodi:role="line">OPEN </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0.9;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.643654"
            y="-206.05341"
-           x="264.40366"
+           x="263.1597"
            sodipodi:role="line"
            id="tspan900">EDUCATION</tspan></text>
       <flowRoot
@@ -141,16 +141,16 @@
       <text
          id="text9073-3"
          y="-142.56786"
-         x="264.14951"
+         x="263.47586"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.76549px;line-height:1.25;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';letter-spacing:0px;word-spacing:0px;stroke-width:0.219137"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.219137"
            y="-142.56786"
-           x="264.14951"
+           x="263.47586"
            id="tspan9071-70"
            sodipodi:role="line">INFORMATIONS CLÉS</tspan></text>
       <flowRoot
-         transform="matrix(0.34463573,0,0,0.30391026,2500.9837,-517.9446)"
+         transform="matrix(0.34463573,0,0,0.30391026,2499.8715,-517.9446)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;line-height:1.23;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
          id="flowRoot8891-9"
          xml:space="preserve"><flowRegion
@@ -165,7 +165,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara8897-2">Contenu pédagogique librement utilisable, modifiable et partageable, qui rend possible tout un ensemble de pratiques collaboratives ouvertes et décentralisées avec une variété d'approches pédagogiques.</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.21799528,0,0,0.21799528,1677.7024,-289.69477)"
+         transform="matrix(0.219118,0,0,0.21799528,1685.7336,-289.69477)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
          id="flowRoot8891-8-4-4-4-8"
          xml:space="preserve"><flowRegion
@@ -181,28 +181,28 @@
            id="flowPara934">Les ressources éducatives ouvertes sont toutes les formes de contenu pédagogique en libre accès, pouvant être sous licence ouverte mais pas obligatoirement, les dimensions juridiques n'étant pas toujours maitrisées. Il peut s'agir d'un PowerPoint, de manuels scolaires, de publications sur les réseaux, d'un blog ou de pleins d'autres genres de documents plus ou moins complexe. Aussi bien des textes, des images, des vidéos, de l'audio...</flowPara></flowRoot>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.70961px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.16774"
-         x="280.09396"
-         y="-58.453403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72687px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.168171"
+         x="279.81348"
+         y="-58.60376"
          id="text9073-6-9"
-         transform="scale(0.93993282,1.0639058)"><tspan
+         transform="scale(0.94235059,1.0611762)"><tspan
            sodipodi:role="line"
            id="tspan9071-7-2"
-           x="280.09396"
-           y="-58.453403"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.16774">RESSOURCE ÉDUCATIVE OUVERTE</tspan></text>
+           x="279.81348"
+           y="-58.60376"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.168171">RESSOURCE ÉDUCATIVE OUVERTE</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.84235px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.246059"
-         x="403.86005"
-         y="-60.863628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.84338px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.246085"
+         x="403.10699"
+         y="-60.870022"
          id="text9073-6-1-24"
-         transform="scale(0.98275107,1.0175517)"><tspan
+         transform="scale(0.9828543,1.0174448)"><tspan
            sodipodi:role="line"
            id="tspan9071-7-4-9"
-           x="403.86005"
-           y="-60.863628"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01359px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.246059">PRATIQUE ÉDUCATIVE OUVERTE</tspan></text>
+           x="403.10699"
+           y="-60.870022"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01433px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.246085">PRATIQUE ÉDUCATIVE OUVERTE</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -210,7 +210,7 @@
          d="m 240.09309,23.095242 h 114.7464"
          style="fill:none;stroke:#000000;stroke-width:0.158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
-         transform="matrix(0.21799528,0,0,0.21799528,1677.6204,-185.56061)"
+         transform="matrix(0.21799528,0,0,0.21799528,1678.4732,-185.56061)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
          id="flowRoot8891-8-4-4-4-5-4-8"
          xml:space="preserve"><flowRegion
@@ -231,7 +231,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
    id="flowSpan967">Imaginez un monde dans lequel chaque personne sur la planète aurait accès gratuitement à la somme de toutes les connaissances humaines. C'est ce que nous faisons. </flowSpan>» Jimmy Wales, fondateur Wikipédia</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.21799528,0,0,0.21799528,1812.138,-185.60249)"
+         transform="matrix(0.22037025,0,0,0.21799528,1826.3686,-185.60249)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
          id="flowRoot8891-8-4-4-4-5-8-9"
          xml:space="preserve"><flowRegion
@@ -262,23 +262,23 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37619px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.159405"
-         x="262.85019"
+         x="264.09393"
          y="41.246471"
          id="text9073-6-1-2-8"><tspan
            sodipodi:role="line"
            id="tspan9071-7-4-1-2"
-           x="262.85019"
+           x="264.09393"
            y="41.246471"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Wikipédia</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37619px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.159405"
-         x="397.25473"
+         x="396.4924"
          y="41.246471"
          id="text9073-6-1-2-3-1"><tspan
            sodipodi:role="line"
            id="tspan9071-7-4-1-9-8"
-           x="397.25473"
+           x="396.4924"
            y="41.246471"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Cet environnement pédagogique</tspan></text>
       <text
@@ -311,7 +311,7 @@
          d="m 244.68988,146.83087 c -0.74847,-0.13348 -1.47564,-0.69873 -1.7784,-1.38233 -0.24101,-0.54418 -0.27451,-1.18865 -0.0901,-1.73654 0.13865,-0.41207 0.26773,-0.62323 0.57408,-0.93886 1.02642,-1.05779 2.74714,-0.95069 3.63028,0.22597 0.53204,0.70896 0.63511,1.5815 0.28592,2.42034 l -0.13347,0.32059 0.10156,0.39909 c 0.15014,0.59002 0.0908,0.64123 -0.54233,0.46774 -0.3349,-0.0917 -0.387,-0.0964 -0.46917,-0.0419 -0.32637,0.21669 -1.11202,0.34902 -1.5784,0.26583 z m 0.85354,-0.27372 c 0.15908,-0.0337 0.40424,-0.11975 0.5448,-0.19118 l 0.25561,-0.12987 0.36036,0.10148 c 0.41987,0.11826 0.40798,0.13319 0.27523,-0.34581 l -0.085,-0.30693 0.13043,-0.25663 c 0.31776,-0.62536 0.3172,-1.29779 0,-1.94474 -0.40495,-0.82156 -1.32455,-1.30407 -2.22675,-1.16839 -0.91936,0.13826 -1.68546,0.90435 -1.82372,1.82366 -0.16442,1.09336 0.58956,2.18077 1.67573,2.41678 0.34783,0.0755 0.54441,0.076 0.89503,0.002 z m -0.54384,-0.9434 c -0.0831,-0.083 -0.0702,-0.18164 0.0311,-0.24563 0.15916,-0.10022 0.32932,0.14762 0.17751,0.25864 -0.0988,0.0723 -0.12493,0.0706 -0.20854,-0.0131 z m 0,-0.46642 c -0.0774,-0.0771 -0.0957,-0.65143 -0.0255,-0.78282 0.0231,-0.0426 0.1069,-0.0897 0.187,-0.10472 0.22569,-0.0424 0.36793,-0.21152 0.36793,-0.43761 0,-0.40884 -0.46821,-0.58544 -0.74903,-0.28249 -0.0566,0.061 -0.10283,0.16186 -0.10283,0.22404 0,0.12914 -0.0694,0.21528 -0.17368,0.21528 -0.29541,0 -0.14727,-0.5549 0.21293,-0.79764 0.1704,-0.11484 0.53483,-0.13256 0.72326,-0.0351 0.20415,0.1056 0.37902,0.34197 0.41102,0.55589 0.0511,0.34307 -0.161,0.71285 -0.47899,0.83376 -0.0864,0.0329 -0.0983,0.066 -0.0983,0.27548 0,0.36202 -0.11121,0.49854 -0.2738,0.33597 z"
          style="fill:#000000;stroke-width:0.0425951" />
       <flowRoot
-         transform="matrix(0.21799528,0,0,0.21799528,1811.9175,-289.8204)"
+         transform="matrix(0.21799528,0,0,0.21799528,1811.0306,-289.8204)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
          id="flowRoot8891-8-4-4-4-5-7-8"
          xml:space="preserve"><flowRegion
