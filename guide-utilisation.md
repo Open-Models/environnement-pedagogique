@@ -63,7 +63,7 @@ et les pulls/merge request, ainsi que les explications/documentations qui invite
 
 La volonté est de montrer comment on peut travailler collaborativement avec le numérique tout en liant avec cette logique de commun numérique.
 
-#### Open science
+#### Open Science
 
 Cette zone aborde la notion de patrimoine numérique commun, l'idée va être de montrer toutes ces ressources qui peuvent être en libre
 accès avec ici l'exemple des documents scientifiques en open access.
