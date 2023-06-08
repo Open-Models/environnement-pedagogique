@@ -52,4 +52,25 @@ L'objectif est de permettre aux gens d'explorer librement les modèles ouverts p
 en leur permettant d'avoir un soutien pour interagir si le besoin, l'envie ou la curiosité se présente !
 
 ### Organisation par zone
-[...]
+
+#### Open Software
+
+Cette zone aborde la notion de forge, l'idée va être de faire découvrir ces systèmes de collaboration, les "usines des développeurs".
+
+Une démonstration en prenant un logiciel open source, idéalement parlant pour le public, pour aller faire découvrir le
+fonctionnement de ces environnements. Montrer que n'importe qui peut venir contribuer, avec les systèmes d'issues (bug tracking)
+et les pulls/merge request, ainsi que les explications/documentations qui invitent à la contribution.
+
+La volonté est de montrer comment on peut travailler collaborativement avec le numérique tout en liant avec cette logique de commun numérique.
+
+#### Open science
+
+Cette zone aborde la notion de patrimoine numérique commun, l'idée va être de montrer toutes ces ressources qui peuvent être en libre
+accès avec ici l'exemple des documents scientifiques en open access.
+
+Le réseau d'archives ouvertes permet de montrer les différentes structures qui ont leur propre dépôt et qui sont impliquées dans
+ces dynamiques. Après avoir expliqué ce système mis en place par les universités (et autres organismes scientifiques), l'objectif
+va être de parler des moteurs de recherches en open access (type [CORE](https://core.ac.uk/)) pour montrer comment explorer ce réseau d'archives.
+
+La volonté est de montrer cette orientation des institutions vers l'open science tout en partageant cette nouvelle
+forme d'accès à la recherche scientifique.
