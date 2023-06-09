@@ -16,7 +16,7 @@ Ressources co-produites sur la forge GitHub : https://github.com/Open-Models/env
 Cet environnement pédagogique est fourni avec toute une documentation pour comprendre comment organiser un atelier
 autour des modèles ouverts avec ces ressources.
 
-Ce matériel peut être utiliser en s'aidant de son [guide d'utilisation](guide-utilisation.md). Pour personnaliser
+Ce matériel peut être utilisé en s'aidant de son [guide d'utilisation](guide-utilisation.md). Pour personnaliser
 l'environnement, l'intégralité du contenu se modifie en suivant le [guide de modification](sources/guide-modification.md).
 
 ## Support et contribution
