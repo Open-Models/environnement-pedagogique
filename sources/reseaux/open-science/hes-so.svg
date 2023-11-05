@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4438,9 +4438,8 @@
        xml:space="preserve"
        id="text6711"
        style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect6713);"
-       transform="translate(4.0685063,6.1076967)"><tspan
+       transform="translate(8.4418839,6.1076967)"><tspan
          x="20.085938"
-         y="70.62998"><tspan
-           style="font-size:6.35px">Archive ouverte</tspan></tspan></text>
+         y="70.62998"><tspan>Open Archive</tspan></tspan></text>
   </g>
 </svg>

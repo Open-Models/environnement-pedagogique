@@ -31,8 +31,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63"
-     inkscape:cx="566.46285"
-     inkscape:cy="443.5703"
+     inkscape:cx="496.27436"
+     inkscape:cy="428.19332"
      inkscape:document-units="mm"
      inkscape:current-layer="g2661"
      showgrid="false"
@@ -79,7 +79,7 @@
            id="tspan9071-7-4-1-1"
            x="358.85727"
            y="25.244028"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">EXEMPLES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">EXAMPLES</tspan></text>
       <text
          id="text8889-7"
          y="-230.26086"
@@ -112,7 +112,7 @@
            id="flowPara8927-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"><flowSpan
    id="flowSpan1852"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt;</flowSpan> Le matériel ouvert rassemble le design de toutes sortes d'objets. Du matériel électronique avec les plans d'un ordinateur, d'un objet connecté aux biens du quoitidien : meuble, vêtement, moyen de transport...</flowPara></flowRoot>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt;</flowSpan> Open hardware encompasses the design of all kinds of objects. From electronic hardware with plans for a computer or a connected device to everyday goods: furniture, clothing, means of transport, etc.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21799528,0,0,0.21799528,1762.7301,-366.0356)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -129,7 +129,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara10351"><flowSpan
    id="flowSpan1854"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt;</flowSpan> En principe, la documentation doit être lisible et compréhensible par le plus grand nombre et les composants doivent être accessibles autant que possible pour pouvoir reproduire ces objets.</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt;</flowSpan> In principle, the documentation must be readable and understandable by a large audience and the components must be as accessible as possible so that these objects can be reproduced.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara10353" /></flowRoot>
       <flowRoot
@@ -148,7 +148,7 @@
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
            id="flowPara10359">&gt;<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-   id="flowSpan58731"> L'open hardware favorise la réparabilité des objets. La production des composants ne dépend plus d'une seule entreprise, d'autres peuvent développer un savoir-faire pour les reproduire.</flowSpan></flowPara></flowRoot>
+   id="flowSpan58731"> Open hardware favours the repairability of objects. The production of components no longer depends on a single company; others can develop the know-how to reproduce them.</flowSpan></flowPara></flowRoot>
       <text
          id="text9073-3"
          y="-142.56786"
@@ -159,7 +159,7 @@
            y="-142.56786"
            x="263.38287"
            id="tspan9071-70"
-           sodipodi:role="line">INFORMATIONS CLÉS</tspan></text>
+           sodipodi:role="line">KEY INFORMATIONS</tspan></text>
       <flowRoot
          transform="matrix(0.34463573,0,0,0.30391026,2499.8572,-517.9446)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;line-height:1.23;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -174,7 +174,7 @@
              width="569.86945"
              id="rect8895-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara8897-2">Objet matériel dont le plan détaillé est librement utilisable, modifiable et partageable, qui rend possible tout un ensemble de pratiques collaboratives ouvertes et décentralisées.</flowPara></flowRoot>
+           id="flowPara8897-2">A material object whose blueprint can be freely used, modified and shared, enabling a whole range of open and decentralised collaborative practices.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.2188244,0,0,0.21799528,1683.6892,-289.69477)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -189,13 +189,11 @@
              width="491.97525"
              id="rect8895-1-8-9-1-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1013">Par défaut, le droit d'auteur offre un usage exclusif sur une création à son auteur, limitant son utilisation et sa modification par des tiers. On parle alors de copyright.</flowPara><flowPara
+           id="flowPara58742">By default, copyright gives exclusive use of a creation to its author, limiting its use and modification by third parties. This is known as copyright.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara58738" /><flowPara
+           id="flowPara42201"></flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara58740">Le copyleft est une stratégie juridique d'utilisation du droit d'auteur, grâce à des licences ouvertes type creative commons, pour permettre aux autres l'utilisation et la modification d'une création. C'est un &quot;renversement&quot; du droit d'auteur.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara58742" /></flowRoot>
+           id="flowPara42203">Copyleft is a legal strategy that uses copyright, through open licences such as creative commons, to allow others to use and modify a creation. It is a &quot;reversal&quot; of copyright.</flowPara></flowRoot>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13839px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.17846"
@@ -237,10 +235,12 @@
              height="533.08276"
              width="493.84445"
              id="rect8895-1-8-9-1-0-2-2" /></flowRegion><flowPara
-           id="flowPara9324-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Les imprimantes 3D permettent de reproduire certains types d'objets dont les plans sont mis en libre accès. Prusa est une marque d'imprimantes 3D qui a la particularité d'avoir tous ses codes en open source ainsi que ses composants matériels en open hardware. L'imprimante peut alors reproduire l'imprimante, au moins toutes les parties non-métalliques, facilitant notamment certaines réparations. À partir de ces ressources, des imprimantes dérivées s'inventent grâce aux makers ou à des organisations avec des besoins spécifiques.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara58749" /></flowRoot>
+           id="flowPara58749">3D printers can be used to reproduce certain types of object whose plans are made freely available. Prusa is a brand of 3D printer that has the particularity of having all its codes in open source as well as its hardware components in open hardware. The printer can then reproduce the printer, at least all the non-metallic parts, making certain repairs easier.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara42207"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara42209">From these resources, derivative printers are invented by makers or organisations with specific needs.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.2201362,0,0,0.21799528,1824.9662,-185.60249)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -255,9 +255,7 @@
              width="496.11508"
              id="rect8895-1-8-9-1-0-25-2" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1881">Le projet de La fabrique Des Mobilités a été initié en 2015 en France par l'ADEME (Agence de l'environnement et de la maîtrise de l'énergie). Cette fabrique cherche à repenser la mobilité sous l'angle des communs. Parmi leurs activités, ils mettent en place une « Communauté du véhicule Open Source » orienté sur les véhicules intermédiaires, entre le vélo et la voiture. Ce modèle de fabrique basé sur les communs essaime dans d'autres domaines avec la Fabrique des Communs Pédagogiques, la Fabrique des géocommuns, la Fabrique des Santés...</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara58756" /></flowRoot>
+           id="flowPara58756">The Mobility Factory [La fabrique Des Mobilités] was initiated in 2015 in France by ADEME (Environment and Energy Management Agency). This factory seeks to rethink mobility from the perspective of the commons. Among their activities, they are setting up an &quot;Open Source Vehicle Community&quot; focusing on intermediate vehicles, between the bicycle and the car. This commons-based factory model is spreading to other fields, with the Educational Commons Factory, the Geocommons Factory, the Health Factory, etc.</flowPara></flowRoot>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -274,7 +272,7 @@
            id="tspan9071-7-4-1-2"
            x="263.58643"
            y="41.246471"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">L'imprimante 3D Prusa</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">The Prusa 3D printer</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37619px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.159405"
@@ -285,19 +283,19 @@
            id="tspan9071-7-4-1-9-8"
            x="396.30637"
            y="41.246471"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">La Fabrique des Mobilités</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">The Mobility Factory</tspan></text>
       <text
          transform="rotate(-90)"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.969px;line-height:1.25;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;stroke-width:0.324224"
-         x="94.026009"
+         x="155.98807"
          y="252.47055"
          id="text9073-3-3"><tspan
            sodipodi:role="line"
            id="tspan9071-70-6"
-           x="94.026009"
+           x="155.98807"
            y="252.47055"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#b3b3b3;stroke-width:0.324224">LES MODÈLES OUVERTS</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#b3b3b3;stroke-width:0.324224">OPEN MODELS</tspan></text>
       <text
          id="text9073-3-5"
          y="146.52032"
@@ -308,7 +306,7 @@
            y="146.52032"
            x="248.55122"
            id="tspan9071-70-0"
-           sodipodi:role="line">Plus d'infos sur les modèles ouverts : open-models.org</tspan></text>
+           sodipodi:role="line">More information on open models: open-models.org</tspan></text>
       <path
          sodipodi:nodetypes="ccccscccccccccccccccccccccccccccscsscccssc"
          inkscape:connector-curvature="0"
@@ -329,7 +327,7 @@
              width="501.19553"
              id="rect8895-1-8-9-1-0-3-1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara900">Un standard est un ensemble de normes partagées pour simplifier la compatibilité et la communication entre des éléments, des règles à suivre lors de la création d'une solution pour qu'elle puisse interagir avec un écosystème. On peut retrouver des standards partout : pour le matériel, les logiciels, les données... La standardisation favorise le développement d'autres ressources, sans exclure une part de personnalisation.</flowPara></flowRoot>
+           id="flowPara900">A standard is a set of shared norms to simplify compatibility and communication between elements, rules to be followed when creating a solution so that it can interact with an ecosystem. Standards can be found everywhere: for hardware, software, data, etc. Standardisation encourages the development of other resources, without excluding a degree of customisation.</flowPara></flowRoot>
       <g
          id="g912"
          transform="matrix(0.21107377,-0.00137115,0.00137115,0.21107377,487.31892,141.13074)">

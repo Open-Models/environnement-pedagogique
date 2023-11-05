@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,9 +145,9 @@
        id="text839"><tspan
          sodipodi:role="line"
          id="tspan837"
-         x="52.382435"
+         x="53.30357"
          y="10.370427"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Licences Creative Commons</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Creative Commons Licenses </tspan></text>
     <text
        xml:space="preserve"
        id="text869"
@@ -157,19 +157,19 @@
        y="0"><tspan
          x="7.2578125"
          y="24.365488"><tspan
-           dx="0 0 0 0 0.02098012 0 0 0 0 0 0 0 0 0.020979643 0 0 0 0 0 0 0 0 0.020979643 0 0 0 0 0 0 0 0.020979643 0 0 0 0 0 0 0 0.020983458 0 0 0 0.020975828"
-           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">Les licences Creative Commons servent aux auteurs </tspan></tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.37547374 0 0 0 0 0 0 0 0.37547183 0 0 0 0 0 0 0 0 0.37547183 0 0 0 0.37547183 0 0 0 0 0.37547565 0 0 0.37547565 0 0 0 0 0 0 0 0.37547565"
+           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">Creative Commons licences are used by authors to </tspan></tspan><tspan
          x="7.2578125"
          y="28.664962"><tspan
-           dx="0 0 0.86108327 0 0 0 0 0 0 0 0.86108279 0 0 0 0.86108279 0 0 0 0 0 0 0.86108279 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86108661 0 0 0.86108279 0 0 0.86108661"
-           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">à définir les droits d'utilisation et de modification </tspan></tspan><tspan
+           dx="0 0 0 0 0 0 0 0.60439372 0 0 0 0.60439372 0 0 0 0 0 0 0.60439372 0 0 0.60439563 0 0 0 0.60439181 0 0 0 0.60439563 0 0 0 0 0 0 0 0 0 0 0 0 0.60439563 0 0 0.60439563"
+           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">define the rights of use and modification of works </tspan></tspan><tspan
          x="7.2578125"
          y="32.964437"><tspan
-           dx="0 0 0 0 1.3598893 0 0 0 0 0 0 1.3598888 0 0 0 0 0 0 0 1.3598888 0 1.3598888 0 0 0 0 1.3598926 0 0 0 0 0 0 0 0 0 0 1.3598888 0 0 1.3598888"
-           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">des œuvres amenées à être partagées, le droit </tspan></tspan><tspan
+           dx="0 0 0 0 0 0.80236316 0 0 0 0.80236316 0 0 0.80236316 0 0 0.80236316 0 0 0 0 0 0 0 0.80236316 0 0 0 0.80236316 0 0 0 0 0 0 0 0.80236697 0 0 0 0 0 0 0 0 0 0.80236316"
+           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">that are to be shared, the default copyright does </tspan></tspan><tspan
          x="7.2578125"
          y="37.26391"><tspan
-           style="line-height:1.25">d'auteur par défaut ne donnant aucun de ces droits.</tspan></tspan></text>
+           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">not give any of these rights.</tspan></tspan></text>
     <g
        id="g881"
        transform="matrix(0.13957812,0,0,0.13957812,6.6945133,52.780153)">
@@ -241,11 +241,11 @@
        transform="translate(-2.5132146,25.956086)"><tspan
          x="20.367188"
          y="69.94166"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Share Alike (SA) </tspan><tspan
-           style="font-size:3.43958px">: les œuvres dérivées </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Share Alike (SA)</tspan><tspan
+           style="shape-inside:url(#rect953)">: derivative works must </tspan></tspan><tspan
          x="20.367188"
          y="74.241136"><tspan
-           style="font-size:3.43958px">doivent être sous la même licence.</tspan></tspan></text>
+           style="shape-inside:url(#rect953)">be under the same licence.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text963"
@@ -254,10 +254,10 @@
          x="20.367188"
          y="69.94166"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NoDerivatives (ND)</tspan><tspan
-           style="font-size:3.43958px">:  interdiction de </tspan></tspan><tspan
+           style="shape-inside:url(#rect965)">: prohibited to share </tspan></tspan><tspan
          x="20.367188"
          y="74.241136"><tspan
-           style="font-size:3.43958px">partager des versions modifiées.</tspan></tspan></text>
+           style="shape-inside:url(#rect965)">modified versions.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text969"
@@ -269,11 +269,11 @@
        transform="translate(-2.5132146,-1.0716306)"><tspan
          x="20.367188"
          y="69.94166"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NonCommercial (NC) </tspan><tspan
-           style="font-size:3.43958px">: interdiction </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NonCommercial (NC)</tspan><tspan
+           style="shape-inside:url(#rect987)">: prohibited for </tspan></tspan><tspan
          x="20.367188"
          y="74.241136"><tspan
-           style="font-size:3.43958px">d'avoir un usage commercial.</tspan></tspan></text>
+           style="shape-inside:url(#rect987)">commercial use.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text985"
@@ -282,18 +282,18 @@
          x="20.367188"
          y="69.94166"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Attribution (BY)</tspan><tspan
-           style="font-size:3.43958px">:  obligation de citer </tspan></tspan><tspan
+           style="shape-inside:url(#rect989)">: obligation to cite the </tspan></tspan><tspan
          x="20.367188"
          y="74.241136"><tspan
-           style="font-size:3.43958px">l'auteur (présent par défaut).</tspan></tspan></text>
+           style="shape-inside:url(#rect989)">author (present by default).</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text995"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect997);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(7.0636809,-14.81667)"><tspan
+       transform="translate(12.176543,-14.81667)"><tspan
          x="7.4882812"
          y="62.936911"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Liste des principales conditions </tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">List of the main conditions  </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1001"
@@ -303,11 +303,11 @@
        y="0"><tspan
          x="10.914062"
          y="121.60768"><tspan
-           dx="0 0 0 0 0.1911943 0 0 0 0 0 0 0 0 0 0 0.19119525 0 0 0 0 0.19119525 0 0 0 0 0 0 0 0.19119525 0 0 0 0 0 0 0.19119525 0 0 0 0 0 0.19119525 0 0 0 0 0 0.19119525"
-           style="font-size:3.43958px;text-align:justify;text-anchor:start">Ces conditions sont ensuite mixées entre elles pour </tspan></tspan><tspan
+           dx="0 0 0 0 0 0 1.0234983 0 0 0 0 0 0 0 0 0 0 1.0234993 0 0 0 1.0234973 0 0 0 0 1.0234973 0 0 0 0 0 0 0 0 1.0235012 0 0 1.0234935 0 0 0 0 1.0234935"
+           style="font-size:3.43958px;text-align:justify;text-anchor:start">These conditions are then combined to form the </tspan></tspan><tspan
          x="10.914062"
          y="125.90715"><tspan
-           style="font-size:3.43958px;text-align:justify;text-anchor:start">former les différentes licences Creative Commons.</tspan></tspan></text>
+           style="font-size:3.43958px;text-align:justify;text-anchor:start">various Creative Commons licences.</tspan></tspan></text>
     <g
        id="g1274"
        transform="translate(0,-0.77176329)">
@@ -1089,10 +1089,10 @@
        xml:space="preserve"
        id="text1538"
        style="font-style:normal;font-weight:normal;font-size:3.43958px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1540);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-73.606275,60.903813)"><tspan
+       transform="translate(-75.722943,60.903813)"><tspan
          x="99.375"
          y="80.84791"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43958px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Document sous licence CC BY-SA</tspan></tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Document under CC BY-SA licence</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1597"
@@ -1102,10 +1102,10 @@
        transform="translate(0,12.170835)"><tspan
          x="7.2578125"
          y="24.365488"><tspan
-           dx="0 0 0 0 0 0 1.7905567 0 0 0 0 0 0 0 0 0 0 0 0 1.7905567 0 1.7905567 0 0 0 1.7905567 0 0 0 0 0 0 0 1.7905567 0 0 1.7905529 0 0 0 0 0 0 1.7905529"
-           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">Elles s'appliquent à une variété de formes de </tspan></tspan><tspan
+           dx="0 0 0 0 0 0.72795367 0 0 0 0 0 0.72795177 0 0 0.72795367 0 0.72795367 0 0 0 0 0 0 0 0.72795367 0 0 0.72795367 0 0 0 0 0 0.72795367 0 0 0.72795367 0 0 0 0 0 0 0 0 0.72795367"
+           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">They apply to a variety of forms of content: text, </tspan></tspan><tspan
          x="7.2578125"
          y="28.664962"><tspan
-           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">contenu : texte, image, vidéo, audio...</tspan></tspan></text>
+           style="font-size:3.43958px;line-height:1.25;text-align:justify;text-anchor:start">images, video, audio, etc.</tspan></tspan></text>
   </g>
 </svg>

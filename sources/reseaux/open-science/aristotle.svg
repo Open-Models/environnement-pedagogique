@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4902,15 +4902,15 @@
        xml:space="preserve"
        id="text35162"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect35164);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(70.574499,1.7653301)"
+       transform="translate(70.431874,1.7653301)"
        x="56.629101"
        y="0"><tspan
-         x="-46.420056"
+         x="-41.904052"
          y="70.62998"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Archive ouverte
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Open Archive
 </tspan></tspan><tspan
-         x="-29.762158"
+         x="-31.715527"
          y="78.56748"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle">(Grèce)</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle">(Greece)</tspan></tspan></text>
   </g>
 </svg>

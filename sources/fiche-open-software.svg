@@ -24,8 +24,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63"
-     inkscape:cx="564.65868"
-     inkscape:cy="697.53856"
+     inkscape:cx="587.97217"
+     inkscape:cy="1150.7157"
      inkscape:document-units="mm"
      inkscape:current-layer="g2661"
      showgrid="false"
@@ -67,7 +67,7 @@
            id="tspan9071-7-4-1-1"
            x="358.85727"
            y="25.244028"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">EXEMPLES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">EXAMPLES</tspan></text>
       <text
          id="text8889-7"
          y="-230.26086"
@@ -91,16 +91,14 @@
          xml:space="preserve"><flowRegion
            style="line-height:0.88;text-align:justify;text-anchor:start"
            id="flowRegion8893-4-5"><rect
-             style="line-height:0.88;text-align:justify;text-anchor:start"
+             style="line-height:0.88;text-align:justify;text-anchor:start;stroke-width:1"
              y="1055.4016"
              x="-6488"
              height="481.58862"
              width="342.03668"
              id="rect8895-1-5" /></flowRegion><flowPara
            id="flowPara8927-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"><flowSpan
-   id="flowSpan1852"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt;</flowSpan> Les logiciels ouverts (open source) sont omniprésents. La majorité des applications de notre quotidien ne sont pas des logiciels ouverts, mais elles sont toutes produites à partir de logiciels ouverts.</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">&gt; Open software (open source) are ubiquitous. Most of the applications we use every day are not open software, but they are all produced using open software.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21799528,0,0,0.21799528,1762.7301,-366.0356)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -117,7 +115,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara10351"><flowSpan
    id="flowSpan1854"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>Les fondations du numérique reposent sur du logiciel ouvert qui façonne le développement des évolutions technologiques : le web, les datacenters du &quot;cloud&quot;, les cryptomonnaies, l'IA...</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>The foundations of the digital are based on open software, which is shaping the development of new technologies: the web, cloud data centres, cryptocurrencies, AI, etc.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara10353" /></flowRoot>
       <flowRoot
@@ -136,7 +134,7 @@
            id="flowPara8927-9-7-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"><flowSpan
    id="flowSpan1856"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>Des écosystèmes complexes d'acteurs se structurent autour de logiciels ouverts répondant à des besoins communs ce qui entraîne des enjeux nouveaux pour produire et maintenir ces ressources.</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>Complex ecosystems of players are being structured around open software responding to common needs, leading to new challenges in producing and maintaining these resources.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara10359" /></flowRoot>
       <text
@@ -149,7 +147,7 @@
            y="-142.56786"
            x="263.47586"
            id="tspan9071-70"
-           sodipodi:role="line">INFORMATIONS CLÉS</tspan></text>
+           sodipodi:role="line">KEY INFORMATIONS</tspan></text>
       <flowRoot
          transform="matrix(0.34463573,0,0,0.30391026,2499.9502,-517.9446)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;line-height:1.23;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -157,14 +155,14 @@
          xml:space="preserve"><flowRegion
            style="font-size:22.8241px;text-align:justify;text-anchor:start"
            id="flowRegion8893-3"><rect
-             style="text-align:justify;text-anchor:start;stroke-width:1;font-size:22.82408208px;"
+             style="font-size:22.8241px;text-align:justify;text-anchor:start;stroke-width:1"
              y="1055.4016"
              x="-6488"
              height="332.42908"
              width="569.86945"
              id="rect8895-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara8897-2">Logiciel dont le code source est librement utilisable, modifiable et partageable, qui rend possible tout un ensemble de pratiques collaboratives ouvertes et décentralisées.</flowPara></flowRoot>
+           id="flowPara8897-2">Software whose source code can be freely used, modified and shared, enabling a whole range of open and decentralised collaborative practices.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21892006,0,0,0.21799528,1684.4028,-289.69477)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -172,18 +170,18 @@
          xml:space="preserve"><flowRegion
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;text-anchor:start"
            id="flowRegion8893-4-2-8-4-8"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;text-anchor:start;stroke-width:1"
              y="1055.4016"
              x="-6488"
              height="601.39221"
              width="491.97525"
              id="rect8895-1-8-9-1-6" /></flowRegion><flowPara
-           id="flowPara9178-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Un commun numérique est une ressource utilisée et produite par une communauté avec une relative gouvernance partagée. Il peut s'agir d'un logiciel, de contenu pédagogique ou scientifique, de plan matériel, de données, etc. avec un écosystème composé de citoyens, d'organisations privées et/ou d'institutions publiques.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1011" /><flowPara
+           id="flowPara1013">A digital common is a resource used and produced by a community with relatively shared governance. It can be software, educational or scientific content, hardware, data, etc. with an ecosystem made up of citizens, private organisations and/or public institutions.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1013">Dans le cas du noyau Linux, entre 2007 et 2019, 1730 organisations ont contribué au logiciel.</flowPara></flowRoot>
+           id="flowPara18010"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara18012">In the case of the Linux kernel, between 2007 and 2019, 1,730 organisations have contributed to the software.</flowPara></flowRoot>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13839px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.17846"
@@ -194,7 +192,7 @@
            id="tspan9071-7-2"
            x="263.90399"
            y="-62.188915"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.17846">COMMUN NUMÉRIQUE</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.17846">DIGITAL COMMON</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0151px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.250377"
@@ -219,14 +217,18 @@
          xml:space="preserve"><flowRegion
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;text-anchor:start"
            id="flowRegion8893-4-2-8-4-6-1-7"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;text-anchor:start;stroke-width:1"
              y="1055.4016"
              x="-6488"
              height="533.08276"
              width="493.84445"
              id="rect8895-1-8-9-1-0-2-2" /></flowRegion><flowPara
            id="flowPara9324-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Python, JavaScript, PHP, C, C++... En informatique, ces différents &quot;langages&quot; permettent d'écrire le code des logiciels. Pour chaque langage il existe un logiciel pour convertir ce texte, qui peut être compréhensible par les humains, en instruction pour l'ordinateur, qui ne comprend que les 0 et les 1. Les logiciels pour faire fonctionner ces langages sont très majoritairement en open source ce qui permet facilement à tout le monde de pouvoir faire de la programmation.</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Python, JavaScript, PHP, C, C++... In computing, these different &quot;languages&quot; are used to write software code.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara18028"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara18030">For each language there is software to convert this text, which can be understood by humans, into instructions for the computer, which only understands 0s and 1s. The software to run these languages is mostly open source which makes it easy for anyone to do programming.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.2201362,0,0,0.21799528,1824.9662,-185.60249)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -241,11 +243,7 @@
              width="496.11508"
              id="rect8895-1-8-9-1-0-25-2" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1877">Un noyau est le logiciel indispensable au fonctionnement d'un ordinateur. Il est l'interface pour permettre la communication entre tous les logiciels et les composants matériels de l'ordinateur (la mémoire, clavier, souris, écran, caméra...). Linux est le noyau qui fait fonctionner la majorité des téléphones mobiles (Android se base sur Linux), des sites web, des objets connectés... 100 % des 500 plus gros superordinateurs utilisent Linux. À l'heure actuelle, Linux est le plus important logiciel ouvert et se retrouve partout avec le numérique.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1879" /><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1881" /></flowRoot>
+           id="flowPara1881">A kernel is the software that is essential to the operation of a computer. It is the interface that enables communication between all the software and hardware components of the computer (memory, keyboard, mouse, screen, camera, etc.). Linux is the kernel that powers the majority of mobile phones (Android is based on Linux), websites, connected objects, etc. 100% of the 500 largest supercomputers use Linux. Today, Linux is the most important open software and can be found everywhere with the  digital.</flowPara></flowRoot>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -262,7 +260,7 @@
            id="tspan9071-7-4-1-2"
            x="263.67944"
            y="41.246471"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Les langages de programmation</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Programming languages</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37619px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.159405"
@@ -273,19 +271,19 @@
            id="tspan9071-7-4-1-9-8"
            x="396.30637"
            y="41.246471"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Le noyau Linux</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">The Linux kernel</tspan></text>
       <text
          transform="rotate(-90)"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.969px;line-height:1.25;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;stroke-width:0.324224"
-         x="94.026009"
+         x="155.98807"
          y="252.47055"
          id="text9073-3-3"><tspan
            sodipodi:role="line"
            id="tspan9071-70-6"
-           x="94.026009"
+           x="155.98807"
            y="252.47055"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#b3b3b3;stroke-width:0.324224">LES MODÈLES OUVERTS</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#b3b3b3;stroke-width:0.324224">OPEN MODELS</tspan></text>
       <text
          id="text9073-3-5"
          y="146.52032"
@@ -296,7 +294,7 @@
            y="146.52032"
            x="248.55122"
            id="tspan9071-70-0"
-           sodipodi:role="line">Plus d'infos sur les modèles ouverts : open-models.org</tspan></text>
+           sodipodi:role="line">More information on open models: open-models.org</tspan></text>
       <path
          sodipodi:nodetypes="ccccscccccccccccccccccccccccccccscsscccssc"
          inkscape:connector-curvature="0"
@@ -316,12 +314,12 @@
              height="600.61304"
              width="501.19553"
              id="rect8895-1-8-9-1-0-3-1" /></flowRegion><flowPara
-           id="flowPara9235-3-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">Une forge est un environnement qui offre un ensemble de fonctionnalités pour le développement collaboratif d'une ressource. On peut trouver sur un même espace un outil de gestion de version et d'historique, un système de suivi des bugs, des espaces de discussion type forum, un wiki, etc. Il existe surtout des forges logicielles, mais le principe s'applique à d'autres formes de contenu.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara898" /><flowPara
+           id="flowPara900">A forge is an environment that offers a range of features for the collaborative development of a resource. You can find in the same place a versioning and history management tool, a bug-tracking system, forum-type discussion areas, a wiki, and so on. There are mainly software forges, but the principle can be applied to other forms of content.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara900">GitHub et GitLab sont les 2 forges les plus populaires.</flowPara></flowRoot>
+           id="flowPara18019"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara18021">GitHub and GitLab are the 2 most popular forges.</flowPara></flowRoot>
       <g
          id="g912"
          transform="matrix(0.21107377,-0.00137115,0.00137115,0.21107377,487.31897,141.13074)">
