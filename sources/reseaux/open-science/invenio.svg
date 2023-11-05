@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,14 +94,14 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect42243);fill:#000000;fill-opacity:1;stroke:none;"
        x="45.851463"
        y="0"
-       transform="translate(-1.6887557,-2.4452737)"><tspan
-         x="7.754383"
+       transform="translate(-1.5554304,-2.4452737)"><tspan
+         x="12.816089"
          y="70.62998"><tspan
-           style="shape-inside:url(#rect42243)">Logiciel d'archive ouverte
+           style="shape-inside:url(#rect42243)">Open Archive Software
 </tspan></tspan><tspan
-         x="22.92555"
+         x="18.335132"
          y="78.56748"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">Produit par le CERN
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">Produced by the CERN
 </tspan></tspan><tspan
          x="32.097083"
          y="86.50498"><tspan

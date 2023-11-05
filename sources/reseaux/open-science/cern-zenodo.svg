@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,15 +93,15 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect884);fill:#000000;fill-opacity:1;stroke:none;"
        x="24.986071"
        y="0"
-       transform="translate(-9.1728171,1.4600314)"><tspan
-         x="33.358265"
+       transform="translate(-9.6057568,1.4600314)"><tspan
+         x="37.874268"
          y="70.62998"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Archive ouverte</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Open Archive</tspan><tspan
            style="font-size:6.35px;text-align:center;text-anchor:middle">
 </tspan></tspan><tspan
-         x="14.695838"
+         x="16.022889"
          y="78.56748"><tspan
-           style="font-size:6.35px;text-align:center;text-anchor:middle">Zenodo, hébergé par le CERN</tspan></tspan></text>
+           style="font-size:6.35px;text-align:center;text-anchor:middle">Zenodo, hosted by the CERN</tspan></tspan></text>
     <g
        id="g2946"
        transform="matrix(0.0387931,0,0,0.0387931,29.56706,95.101075)">

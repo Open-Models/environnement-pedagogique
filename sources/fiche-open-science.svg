@@ -15,7 +15,14 @@
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="fiche-open-science.svg">
   <defs
-     id="defs1926" />
+     id="defs1926">
+    <rect
+       x="398.03328"
+       y="50.471293"
+       width="55.330044"
+       height="66.120132"
+       id="rect18060" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +32,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.61580177"
      inkscape:cx="528.2772"
-     inkscape:cy="371.93532"
+     inkscape:cy="1277.7666"
      inkscape:document-units="mm"
      inkscape:current-layer="g2661"
      showgrid="false"
@@ -72,7 +79,7 @@
            id="tspan9071-7-4-1-1"
            x="358.85727"
            y="25.244028"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">EXEMPLES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.23673">EXAMPLES</tspan></text>
       <text
          id="text8889-7"
          y="-230.26086"
@@ -105,7 +112,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara960"><flowSpan
    id="flowSpan1852"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>Traditionnellement, des revues scientifiques possèdent les articles et leur accès est payant. L'open science modifie la manière de publier la recherche donnant un accès plus universel à la littérature scientifique.</flowPara></flowRoot>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>Traditionally, scientific journals own the articles and charge a fee for access. Open science is changing the way research is published giving more universal access to scientific literature..</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21799528,0,0,0.21799528,1762.7301,-366.0356)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -122,7 +129,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="flowPara1895"><flowSpan
    id="flowSpan1854"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>La pratique se démocratise dans le monde scientifique, soutenue politiquement dans une logique de &quot;Public money, public research&quot;. La Maison Blanche a proclamé 2023 comme l'année de l'Open Science.</flowPara></flowRoot>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>The practice is becoming more widespread in the scientific world, with political support for a &quot;public money, public research&quot; approach. The White House has declared 2023 as the Year of Open Science.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21799528,0,0,0.21799528,1846.17,-366.08676)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -139,7 +146,7 @@
            id="flowPara8927-9-7-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"><flowSpan
    id="flowSpan1856"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>L'ouverture de la recherche devient un enjeu lors de crises. L'OMS, l'UNESCO, le CERN et le HCDH ont lancé un appel conjoint en 2020 en faveur de la science ouverte lors de la crise du covid.</flowPara></flowRoot>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">&gt; </flowSpan>Open Science becomes an issue during crises. The WHO, UNESCO, CERN and the OHCHR launched a joint appeal in 2020 in favour of open science during the covid crisis.</flowPara></flowRoot>
       <text
          id="text9073-3"
          y="-142.56786"
@@ -150,7 +157,7 @@
            y="-142.56786"
            x="263.47586"
            id="tspan9071-70"
-           sodipodi:role="line">INFORMATIONS CLÉS</tspan></text>
+           sodipodi:role="line">KEY INFORMATIONS</tspan></text>
       <flowRoot
          transform="matrix(0.34463573,0,0,0.30391026,2499.9502,-517.9446)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;line-height:1.23;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -165,7 +172,7 @@
              width="569.86945"
              id="rect8895-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8241px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara8897-2">Recherche scientifique dont le contenu (articles, données, etc.) est librement utilisable, modifiable et partageable, qui rend possible tout un ensemble de pratiques collaboratives ouvertes et décentralisées.</flowPara></flowRoot>
+           id="flowPara8897-2">Scientific research in which the content (articles, data, etc.) is freely usable, modifiable and shareable, enabling a whole range of open and decentralised collaborative practices.</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.21882504,0,0,0.21799528,1683.833,-289.69477)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -180,7 +187,7 @@
              width="491.97525"
              id="rect8895-1-8-9-1-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara934">Un patrimoine numérique commun est un ensemble de ressources librement utilisables qui peuvent se trouver dans différents espaces. Il peut rassembler tout type de ressources, du simple contenu publié en ligne aux ressources avec une forte dynamique collaborative autour, incluant ces « communs numériques ». Des questions se posent autour de l'explorabilité et de la pérennité de ces patrimoines informationnels.</flowPara></flowRoot>
+           id="flowPara934">A common digital patrimony is a set of freely usable resources that can be found in different spaces. It can include any type of resource, from simple content published online to resources with a strong collaborative dynamic around them, including these  « digital commons ». Questions are being raised about the discoverability and sustainability of these informational assets.</flowPara></flowRoot>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.67365px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.166841"
@@ -192,7 +199,7 @@
            id="tspan9071-7-2"
            x="282.05334"
            y="-58.140133"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.166841">PATRIMOINE NUMÉRIQUE COMMUN</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.166841" /></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0151px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.250377"
@@ -203,7 +210,7 @@
            id="tspan9071-7-4-9"
            x="396.70969"
            y="-61.931889"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.250377">ARCHIVE OUVERTE</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.250377">OPEN ARCHIVE</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -223,12 +230,12 @@
              height="533.08276"
              width="493.84445"
              id="rect8895-1-8-9-1-0-2-2" /></flowRegion><flowPara
-           id="flowPara9324-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans">CORE est un moteur de recherche pour accéder à plus de 250 millions de documents scientifiques en open access qui proviennent d'environ 10 000 fournisseurs de données. Ces fournisseurs sont autant des journaux scientifiques que des archives ouvertes d'universités ou de centres de recherche. CORE indexe exclusivement du contenu sous licence ouverte. Ce moteur de recherche est un projet porté par The Open University.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara951" /><flowPara
+           id="flowPara953">CORE is a search engine providing access to more than 250 million open access scientific documents from around 10,000 data providers. These providers range from scientific journals to open archives from universities or research centres. CORE indexes exclusively open-licensed content. This search engine is a project run by The Open University.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara953">Lien du site de CORE : https://core.ac.uk</flowPara></flowRoot>
+           id="flowPara18054"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="flowPara18056">Link to the CORE website: https://core.ac.uk</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.2200415,0,0,0.21799528,1824.3988,-185.60249)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"
@@ -243,7 +250,7 @@
              width="496.11508"
              id="rect8895-1-8-9-1-0-25-2" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara1881">Le GIEC et l'IPBES, pour Groupe d'experts Intergouvernemental sur l'Évolution du Climat et Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, sont les principaux organismes chargés de synthétiser l'état de la connaissance scientifique sur le climat et la biodiversité. Leurs rapports se trouvent en accès libre depuis leurs sites, avec un copyright permissif. Une variété de personnes reprend ces documents comme des chercheurs, des journalistes, des activistes ou des enseignants pour essayer d'éclairer la société sur les crises écologiques.</flowPara></flowRoot>
+           id="flowPara1881">The IPCC and IPBES, which stand for Intergovernmental Panel on Climate Change and Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, are the main bodies responsible for synthesising the state of scientific knowledge on climate and biodiversity. Their reports are freely available on their websites, with permissive copyright. A variety of people use these documents including researchers, journalists, activists and teachers to try to enlighten society about the ecological crises.</flowPara></flowRoot>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -260,7 +267,7 @@
            id="tspan9071-7-4-1-2"
            x="263.67944"
            y="41.246471"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Le moteur de recherche CORE</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">The CORE search engine</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37619px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.159405"
@@ -271,19 +278,19 @@
            id="tspan9071-7-4-1-9-8"
            x="396.3064"
            y="41.246471"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">Les rapports du GIEC et de l'IPBES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.159405">The IPCC and IPBES reports</tspan></text>
       <text
          transform="rotate(-90)"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.969px;line-height:1.25;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;stroke-width:0.324224"
-         x="94.026009"
+         x="155.98807"
          y="252.47055"
          id="text9073-3-3"><tspan
            sodipodi:role="line"
            id="tspan9071-70-6"
-           x="94.026009"
+           x="155.98807"
            y="252.47055"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#b3b3b3;stroke-width:0.324224">LES MODÈLES OUVERTS</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#b3b3b3;stroke-width:0.324224">OPEN MODELS</tspan></text>
       <text
          id="text9073-3-5"
          y="146.51958"
@@ -294,7 +301,7 @@
            y="146.51958"
            x="248.55144"
            id="tspan9071-70-0"
-           sodipodi:role="line">Plus d'infos sur les modèles ouverts : open-models.org</tspan></text>
+           sodipodi:role="line">More information on open models: open-models.org</tspan></text>
       <path
          sodipodi:nodetypes="ccccscccccccccccccccccccccccccccscsscccssc"
          inkscape:connector-curvature="0"
@@ -315,11 +322,11 @@
              width="501.19553"
              id="rect8895-1-8-9-1-0-3-1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara900">Une archive ouverte est une plateforme pour le dépôt de documents scientifiques, un genre de bibliothèque numérique. Les universités ont souvent leur propre archive ouverte à disposition. Ces outils vont implémenter des standards pour permettre à des moteurs de recherche spécialisés d'explorer simultanément le contenu d'une multitude d'archives ouvertes.</flowPara><flowPara
+           id="flowPara18041">An open archive is a platform for the deposit of scientific documents, a kind of digital library. Universities usually have their own open archive. </flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara943" /><flowPara
+           id="flowPara18045"></flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.88;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           id="flowPara945" /></flowRoot>
+           id="flowPara18047">These tools will implement standards to enable specialised search engines to simultaneously explore the content of a multitude of open archives.</flowPara></flowRoot>
       <g
          id="g912"
          transform="matrix(0.21107371,-0.00137107,0.00137107,0.21107371,487.31901,141.13027)">
@@ -7325,6 +7332,21 @@
            x="394.6033"
            id="tspan13099"
            sodipodi:role="line">Version 0.1, DOI : 10.5281/zenodo.8002670</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0151px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.250377"
+         x="263.90405"
+         y="-61.931889"
+         id="text18034"><tspan
+           sodipodi:role="line"
+           id="tspan18032"
+           x="263.90405"
+           y="-61.931889"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.13669px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.250377">COMMON DIGITAL PATRIMONY</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text18058"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18060);fill:#000000;fill-opacity:1;stroke:none;" />
     </g>
   </g>
 </svg>

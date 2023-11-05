@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3532,14 +3532,14 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect50342);fill:#000000;fill-opacity:1;stroke:none;"
        x="67.375519"
        y="0"
-       transform="translate(148.64132,1.5234763)"><tspan
-         x="-142.5757"
+       transform="translate(149.72653,1.5234763)"><tspan
+         x="-138.61935"
          y="70.62998"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Logiciel d'archive ouverte</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Open Archive Software </tspan><tspan
            style="font-size:6.35px">
 </tspan></tspan><tspan
-         x="-127.49445"
+         x="-132.08486"
          y="78.56748"><tspan
-           style="font-size:6.35px">Produit par le CCSD</tspan></tspan></text>
+           style="font-size:6.35px">Produced by the CCSD</tspan></tspan></text>
   </g>
 </svg>
